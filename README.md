@@ -1,6 +1,10 @@
 # Atomxr
 script qui install atom sur les debian/ubuntu 
+
+
 avec les sources donc updates de atom 
+
+
 install mes plugins favoris 
 
 
