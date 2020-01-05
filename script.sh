@@ -12,7 +12,6 @@ apm install minimap-highlight-selected
 apm install minimap-git-diff package
 apm install purple-papers-syntax
 apm install rainbow-tabs
-apm install atom-bootstrap4
 apm install indent-guide-improved
 
 
