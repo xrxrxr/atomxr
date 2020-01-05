@@ -13,7 +13,8 @@ apm install minimap-git-diff package
 apm install purple-papers-syntax
 apm install rainbow-tabs
 apm install indent-guide-improved
-
+apm install autocomplete
+apm install autocomplete-paths
 
 
  
